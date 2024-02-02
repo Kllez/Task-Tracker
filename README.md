@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+### `npm install`
+
+Run so that npm_modules are installed first.
 
 ## Available Scripts
 
